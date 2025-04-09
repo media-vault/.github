@@ -1,0 +1,41 @@
+name: Bug Report
+description: File a bug report to help us improve MediaVault.
+title: "[Bug] <short description>"
+labels: ["bug"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What happened?
+      placeholder: Tell us what you expected vs what happened.
+      value: "Bug description here..."
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: How can we reproduce the issue?
+      placeholder: |
+        1. Start MediaVault
+        2. Go to '...'
+        3. Click on '...'
+        4. See error
+  - type: input
+    id: version
+    attributes:
+      label: MediaVault Version
+      placeholder: ex: v0.3.1
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or Screenshots
+      description: Paste any relevant logs or screenshots here.
+  - type: dropdown
+    id: os
+    attributes:
+      label: Operating System
+      options:
+        - Linux
+        - macOS
+        - Windows
+        - Other
