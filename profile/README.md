@@ -1,9 +1,13 @@
 <p align="center">
-<img alt="Logo Banner" src="https://raw.githubusercontent.com/media-vault/mediavault-ux/main/MediaVault - Banner Text Solid.png?sanitize=true"/>
+<img alt="Logo Banner" src="https://raw.githubusercontent.com/media-vault/mediavault-ux/main/libreuno_banner.png?sanitize=true"/>
 </p>
 
-Your Ultimate Media and Gaming Streaming Solution
+LibreUno is your ultimate media and gaming library solution, designed to bring all your content together under one unified interface. From movies, TV shows, and music to PC and emulated games, LibreUno makes managing, discovering, and enjoying your entire library simple and seamless.
 
-MediaVault is the premium software media system that puts you in control of managing and streaming your home media, including exclusive video game streaming. Our platform provides media streaming from dedicated, self-hosted server to end-user devices through multiple client app and web interfaces.
+We are currently in the early stages of development, with the goal of creating a fully integrated platform that connects all your media and games while keeping you in complete control.
 
-The MediaVault server is built on a cross-platform architecture, supporting various operating systems including Linux, Windows, and macOS. Our system offeres unparalleled flexibility with both first-party and third-party plugins, enhancing functionality across reporting, metadata management, customization, and more.
+Our self-hosted server architecture supports multiple operating systems, including Linux, Windows, and macOS, providing unparalleled flexibility. LibreUno integrates smoothly with existing services like Jellyfin, Playnite/RetroArch, and Sunshine, letting you enjoy a single frontend for all your content while keeping specialized backends optimized.
+
+With customizable plugins, metadata management, and cross-platform client apps and web interfaces, LibreUno ensures that your media and gaming experience is personalized, streamlined, and fully under your control.
+
+[Discord](https://discord.gg/2XpemZb2vH)
