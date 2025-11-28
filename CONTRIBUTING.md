@@ -1,6 +1,6 @@
-# How to Contribute to MediaVault 
+# How to Contribute to LibreUno 
 
-Thank you for your interest in contributing to MediaVault! We have a [comprehensive contribution guide](https://mediavault.org/docs/general/contributing/) over on our documentation site outling how you can help. We look forward to seeing what you have to offer our community!
+Thank you for your interest in contributing to LibreUno! We have a [comprehensive contribution guide](https://libreuno.org/docs/general/contributing/) over on our documentation site outling how you can help. We look forward to seeing what you have to offer our community!
 
 For now until we get the documentation website up and running here are some steps!
 
