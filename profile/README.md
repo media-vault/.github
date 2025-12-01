@@ -1,8 +1,8 @@
 <p align="center">
-<img alt="Logo Banner" src="https://raw.githubusercontent.com/media-vault/mediavault-ux/main/libreuno_banner.png?sanitize=true"/>
+<img alt="Logo Banner" src="https://raw.githubusercontent.com/libretekka/libretekka-ux/main/libretekka_banner.png?sanitize=true"/>
 </p>
 
-LibreUno is your ultimate media and gaming library solution, designed to bring all your content together under one unified interface. From movies, TV shows, and music to PC and emulated games, LibreUno makes managing, discovering, and enjoying your entire library simple and seamless.
+Libretekka is your ultimate media and gaming library solution, designed to bring all your content together under one unified interface. From movies, TV shows, and music to PC and emulated games, Libretekka makes managing, discovering, and enjoying your entire library simple and seamless.
 
 We are currently in the early stages of development, with the goal of creating a fully integrated platform that connects all your media and games while keeping you in complete control.
 
