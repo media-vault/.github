@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="Logo Banner" src="https://raw.githubusercontent.com/libretekka/libretekka-ux/main/libretekka_banner.png?sanitize=true"/>
+<img alt="Logo Banner" src="https://raw.githubusercontent.com/libretekka/libretekka-ux/main/libretekka_banner.jpeg?sanitize=true"/>
 </p>
 
 Libretekka is your ultimate media and gaming library solution, designed to bring all your content together under one unified interface. From movies, TV shows, and music to PC and emulated games, Libretekka makes managing, discovering, and enjoying your entire library simple and seamless.
