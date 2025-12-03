@@ -8,6 +8,6 @@ We are currently in the early stages of development, with the goal of creating a
 
 Our self-hosted server architecture supports multiple operating systems, including Linux, Windows, and macOS, providing unparalleled flexibility. LibreUno integrates smoothly with existing services like Jellyfin, Playnite/RetroArch, and Sunshine, letting you enjoy a single frontend for all your content while keeping specialized backends optimized.
 
-With customizable plugins, metadata management, and cross-platform client apps and web interfaces, LibreUno ensures that your media and gaming experience is personalized, streamlined, and fully under your control.
+With customizable plugins, metadata management, and cross-platform client apps and web interfaces, Libretekka ensures that your media and gaming experience is personalized, streamlined, and fully under your control.
 
 [Discord](https://discord.gg/2XpemZb2vH)
